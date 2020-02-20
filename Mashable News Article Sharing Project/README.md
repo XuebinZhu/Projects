@@ -7,4 +7,3 @@ https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 which is publicly available data from the UCI machine learning repository. 
 This ensured the reliability of the data used for the analysis. 
 This dataset summarizes a heterogeneous set of features about articles published by Mashable News in a period of two years (Fernandes, et al., 2015). The goal is to predict the number of shares in social networks which indicates the popularity of news.
-
