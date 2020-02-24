@@ -1,6 +1,8 @@
 # Increasing News Article Sharing on Mashable 
-In this project, I analyzed the popularity (number of shares) of online news on Mashable. 
-This project belongs to the media & entertainment industry, and I specifically chose the online news industry as it is booming and readers are turning more towards online media instead of traditional paper media.
+
+In this project, I analyzed the popularity (number of shares) of online news on Mashable. This project belongs to the media & entertainment industry, and I specifically chose the online news industry as it is booming and readers are turning more towards online media instead of traditional paper media.
+
+I published a write-up for this project on my RPubs account. You can check it here: https://rpubs.com/DannyZhu/Mashable_Article_Sharing
 
 The dataset is obtained from the following website:
 https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
