@@ -2,7 +2,7 @@
 
 In this project, I built a cool visualization using Tableau to capture the current status quo and provide recommendations to help improve the efficiency and efficacy of the Police and Fire Department at Cary, NC through resource management.
 
-I published a visualization for this project on my Tableau Public account. You can check it here: https://public.tableau.com/profile/danny.zhu#!/
+I published a visualization for this project on my Tableau Public account. You can check it here: https://public.tableau.com/profile/dannyzhu
 
 The data is obtained from the following website:
 https://data.townofcary.org/explore/dataset/cpd-incidents/information/?disjunctive.crime_category&disjunctive.crime_type&disjunctive.crimeday&disjunctive.district&disjunctive.offensecategory&disjunctive.violentproperty&disjunctive.total_incidents
