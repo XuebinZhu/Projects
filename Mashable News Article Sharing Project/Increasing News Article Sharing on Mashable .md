@@ -9,6 +9,8 @@ output: github_document
 
 The dataset is obtained from https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 
+I published a write-up for this project on my RPubs account. You can check it here: https://rpubs.com/DannyZhu/Mashable_Article_Sharing
+
 This dataset summarizes a heterogeneous set of features about articles published by Mashable News in a period of two years (Fernandes, et al., 2015). The goal is to predict the number of shares in social networks which indicates the popularity of news.
 
 After considering various models, the Lasso model proved to be the best model because of its high accuracy and straightforward interpretation. By running the selected variables in quantile regression, Mashable will be able to not only predict how many shares an article will likely receive but also how journalists can increase the number of shares based on the quantile regression information. Moreover, Mashable could run all pre-published articles through this model to predict shares and also analyze where it will fall in the quantiles, and therefore change the article based on relevant features to receive more shares. The causality analysis also provides important information on which variables directly cause shares to increase; Mashable can focus on factors such as the number of images in an article or publishing on a Sunday in the future to increase popularity.
